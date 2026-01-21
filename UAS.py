@@ -34,6 +34,6 @@ def permainan_tebak_angka():
             print("Terima kasih sudah bermain!")
             break
 
-# Jalankan permainan
+# Jalankan permainan 
 if __name__ == "__main__":
     permainan_tebak_angka()
